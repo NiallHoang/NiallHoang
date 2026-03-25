@@ -18,16 +18,18 @@ Hi there! I'm **Nam Hoang**, a Data Science student passionate about Deep Learni
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=plastic&logo=postgresql&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=plastic&logo=dbt&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%234285F4.svg?style=plastic&logo=snowflake&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-%23F2C811.svg?style=plastic&logo=microsoft-power-bi&logoColor=black)
 
 ## 📊 GitHub Stats
-<div style="text-align:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiallHoang&theme=radical&hide_border=false&include_all_commits=true&count_private=true" style="margin-bottom: 12px;" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiallHoang&theme=radical&hide_border=false" style="margin-bottom: 12px;" />
-  <br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NiallHoang&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiallHoang&theme=radical&hide_border=false" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiallHoang&theme=radical&hide_border=false&include_all_commits=true&layout=compact" />
-</div>
+</p>
 
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<p align="center">
   <img src="https://github-trophies.vercel.app/?username=NiallHoang&theme=dracula&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="Trophies" />
-</div>
+</p>
