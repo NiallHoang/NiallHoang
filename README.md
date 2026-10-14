@@ -1,14 +1,16 @@
 # 💫 About Me:
 Hi there! I'm **Nam Hoang**, a Data Science student passionate about Deep Learning(Computer Vision/NLP) and Finance.
 
-- 🔭 I’m currently studying at **University of Economics and Finance**.
+<!-- - 🔭 I’m currently studying at **University of Economics and Finance**. -->
 - 🌱 I’m specializing in **Deep Learning(Computer Vision/NLP)**, and **Quantitative Analysis**.
 - 📧 Reach me at: [namhoangtrh@gmail.com](mailto:namhoangtrh@gmail.com)
 <!-- - 🏆 Top 2 Leaderboard: **Multimodal Italian Sign Language Recognition**. 
 - 💼 Former Data Analyst Intern at **FPT Smart Cloud**. -->
 
+<!-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namhoangtrinh) -->
+
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namhoangtrinh) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/namhoangtrinh) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/NiallHoang)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/namhoangtrinh) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/NiallHoang)
 
 # 💻 Tech Stack
 ### 🧠 AI & Data Science
